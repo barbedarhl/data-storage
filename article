@@ -1,2 +1,2 @@
 ARTICLE|0001|限制Nginx服务的server_name|https://api.github.com/repos/0x0010/notebook/git/blobs/41522abef582a8397012361db976c0561eb0c4d5
-ARTICLE|0002|合理使用HttpClient连接池|https://api.github.com/repos/0x0010/notebook/git/blobs/132de63bec40dcb3a21e647f6e7193968d70729c
+ARTICLE|0002|如何正确使用HttpClient连接池|https://api.github.com/repos/0x0010/notebook/git/blobs/132de63bec40dcb3a21e647f6e7193968d70729c
